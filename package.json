@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/mrsteele/dotenv-webpack#readme",
   "peerDependencies": {
-    "webpack": ">=1.14.0"
+    "webpack": ">=2.6.1"
   },
   "dependencies": {
     "dotenv": "^4.0.0"
